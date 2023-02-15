@@ -25,3 +25,20 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Lesson - 01
+
+let index = index
+
+ng g c <component-name>
+
+ng g c <component-name> --dry-run
+
+ng g c <component-name> --skip-tests=true 
+
+Parent to Child
+
+- @Input() - '@angular/core';
+
+- Angular Material
+  - material.angular.io
